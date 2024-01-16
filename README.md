@@ -22,12 +22,13 @@
 - **Nghề nghiệp:**
   - *Giảng dạy:* Người hướng dẫn tại [trung tâm Fullhouse](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN).
     - Khóa học chủ nhiệm:
-      - [Lập trình hướng đối tượng cơ bản (Java)](https://drive.google.com/drive/folders/1DYINyD1NIGDH7YkS8g4LOlz08gDDqsmD?usp=drive_link).
-      - [Lập trình hướng đối tượng nâng cao (Java)](https://drive.google.com/drive/folders/1DYINyD1NIGDH7YkS8g4LOlz08gDDqsmD?usp=drive_link).
+      - [Lập trình hướng đối tượng cơ bản (Java)](https://drive.google.com/drive/folders/1OcHGCBhGzFBHQDTKao26SqCt0WRM_2nE?usp=drive_link).
+      - [Lập trình hướng đối tượng nâng cao (Java)](https://drive.google.com/drive/folders/1_MHJfgi1ICZuOSRnSJ6x5c3VtIu3sA_8?usp=drive_link).
     - Vai trò:
       - Tiếp cận với những người cần kiến thức về lập trình nền tảng, lập trình hướng đối tượng và định hướng lĩnh vực phát triển ứng dụng nói chung.
   - *Freelancer:* Nhận kèm, hỗ trợ những người có nhu cầu củng cố kiến thức về lập trình nền tảng.
-    - [Lập trình hướng đối tượng (Java)](https://drive.google.com/drive/folders/1DYINyD1NIGDH7YkS8g4LOlz08gDDqsmD?usp=drive_link).
+    - [Lập trình hướng đối tượng cơ bản (Java)](https://drive.google.com/drive/folders/1OcHGCBhGzFBHQDTKao26SqCt0WRM_2nE?usp=drive_link).
+    - [Lập trình hướng đối tượng nâng cao (Java)](https://drive.google.com/drive/folders/1_MHJfgi1ICZuOSRnSJ6x5c3VtIu3sA_8?usp=drive_link).
     - [Cấu trúc dữ liệu và giải thuật](https://drive.google.com/drive/folders/1XvRAGWtY6NDTKKyoWejUfR5EzqzogGGi).
     - Lập trình Desktop App (Java swing - Java, JavaFX - Java, WinForm - C#).
 - **Định hướng tương lai:**
