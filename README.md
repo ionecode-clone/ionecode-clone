@@ -54,7 +54,7 @@
 ## Dự Án Nổi Bật
 
 <div>
-    <p>
+<!--     <p>
         <div>
           <a href="https://github.com/ionecode-clone/Project01-GreatFastFoodStore-ConsoleApp-ver1.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-GreatFastFoodStore-ConsoleApp-ver1" width="300px"/>
@@ -74,7 +74,7 @@
           <a href="https://github.com/ionecode-clone/Project02-GreatFastFoodStore-DesktopApp-ver2.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project02-GreatFastFoodStore-DesktopApp-ver2" width="300px"/>
           </a>
-        </div>
+        </div> -->
     </p>
 </div>
 
