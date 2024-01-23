@@ -18,7 +18,7 @@
 ## Học Vấn và Nghề Nghiệp
 
 - **Trình độ học vấn:**
-  - Đại học (chuyên ngành tính toán thông minh - [Đại học Tôn Đức Thắng](https://www.facebook.com/tonducthanguniversity?locale=vi_VN)).
+  - Đại học (chuyên ngành Tính Toán Thông Minh - [Đại học Tôn Đức Thắng](https://www.facebook.com/tonducthanguniversity?locale=vi_VN)).
 - **Nghề nghiệp:**
   - *Giảng dạy:* Người hướng dẫn tại [trung tâm Fullhouse](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN).
     - Khóa học chủ nhiệm:
