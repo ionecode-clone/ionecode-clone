@@ -102,8 +102,6 @@
 
 <hr>
 
-<hr>
-
 ## Thống Kê Hoạt Động Trên Github
 <img src="https://github-readme-stats.vercel.app/api?username=ionecode-clone&count_private=true&show_icons=true"/>
 
