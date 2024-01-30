@@ -59,16 +59,16 @@
 
 ## Kỹ Năng Nổi Bật
 
-<b><i>Java.</i></b>
+<b><i>JAVA.</i></b>
   - 5+ năm kinh nghiệm sử dụng ngôn ngữ Java vào các lĩnh vực phát triển ứng dụng Desktop, dứng dụng di động Android.
 
-<b><i>GDScript & Godot engine.</i></b>
+<b><i>GDSCRIPT & GODOT ENGINE.</i></b>
   - 2+ năm kinh nghiệm sử dụng ngôn ngữ GDScript và công nghệ Godot cho phát triển ứng dụng Game 2D.
 
 <b><i>C#.</i></b>
   - 4+ năm kinh nghiệm sử dụng ngôn ngữ C# vào lĩnh vực phát triển ứng dụng Desktop.
 
-<b><i>Mô hình MVC.</i></b>
+<b><i>MÔ HÌNH MVC.</i></b>
   - Sử dụng thành thạo mô hình MVC cho phát triển ứng dụng.
 
 <hr>
