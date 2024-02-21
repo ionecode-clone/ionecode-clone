@@ -78,25 +78,15 @@
 <div>
     <p>
         <div>
-          <a href="https://github.com/ionecode-clone/Project01-GreatFastFoodStore-ConsoleApp-ver1.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-GreatFastFoodStore-ConsoleApp-ver1" width="300px"/>
+          <a href="https://github.com/ionecode-clone/Project01-ver1-ConsoleApp-GreatFastFoodStore.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-ver1-ConsoleApp-GreatFastFoodStore" width="300px"/>
           </a>
         </div>
   <div>
-          <a href="https://github.com/ionecode-clone/Project01-GreatFastFoodStore-ConsoleApp-ver2.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-GreatFastFoodStore-ConsoleApp-ver2" width="300px"/>
+          <a href="https://github.com/ionecode-clone/Project01-ver2-ConsoleApp-GreatFastFoodStore.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-ver2-ConsoleApp-GreatFastFoodStore" width="300px"/>
           </a>
         </div>
-<!--   <div>
-          <a href="https://github.com/ionecode-clone/Project02-GreatFastFoodStore-DesktopApp-ver1.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project02-GreatFastFoodStore-DesktopApp-ver1" width="300px"/>
-          </a>
-        </div>
-  <div>
-          <a href="https://github.com/ionecode-clone/Project02-GreatFastFoodStore-DesktopApp-ver2.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project02-GreatFastFoodStore-DesktopApp-ver2" width="300px"/>
-          </a>
-        </div> -->
     </p>
 </div>
 
