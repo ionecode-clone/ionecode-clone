@@ -60,11 +60,11 @@
 
 ## Kỹ Năng Nổi Bật
 
-- <b><i>ASP.NET Core for web.</i></b>
+- <b><i>ASP.NET Core for web app.</i></b>
 
-- <b><i>.NET Core for app and mobile.</i></b>
+- <b><i>.NET Core for desktop and mobile app.</i></b>
 
-- <b><i>Java Servlet + JSP for web.</i></b>
+- <b><i>Java Servlet + JSP for web app.</i></b>
 
 - <b><i>MVC model for software development.</i></b>
 
