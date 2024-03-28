@@ -20,7 +20,6 @@
 
 <b><i>ĐẠI HỌC TÔN ĐỨC THẮNG.</i></b>
   - Khoa Công nghệ thông tin - Chuyên ngành Tính toán thông minh.
-  - Đang theo học chương trình thạc sĩ.
 
 <hr>
 
@@ -29,12 +28,14 @@
 <b><i>[FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (01/07/2021 - Hiện tại).</i></b>
 - <b><i>Giảng viên.</i></b>
   - Giảng dạy các môn học:
-    - [Lập trình hướng đối tượng cơ bản - Ngôn ngữ Java](https://drive.google.com/drive/folders/1OcHGCBhGzFBHQDTKao26SqCt0WRM_2nE?usp=drive_link).
-    - [Lập trình hướng đối tượng nâng cao định hướng phát triển ứng dụng - Ngôn ngữ Java](https://drive.google.com/drive/folders/1_MHJfgi1ICZuOSRnSJ6x5c3VtIu3sA_8?usp=drive_link).
+    - Mô hình lập trình hướng đối tượng và ứng dụng - Ngôn ngữ Java.
   - Hỗ trợ các học viên về kiến thức phát triển ứng dụng, xây dựng đồ án môn học định hướng ứng dụng.
 
-<b><i>GIA SƯ TRỰC TUYẾN (Freelancer).</i></b>
-  - Nhận kèm, hỗ trợ những người có nhu cầu củng cố kiến thức về lập trình nền tảng.
+<b><i>FREELANCER.</i></b>
+  - Gia sư trực tuyến, nhận kèm và hỗ trợ những người có nhu cầu củng cố kiến thức về:
+    - Lập trình nền tảng.
+    - Lập trình hướng đối tượng.
+    - Cấu trúc dữ liệu và giải thuật.
 
 <hr>
 
@@ -43,7 +44,7 @@
 <b><i>NGHIÊN CỨU VÀ ÁP DỤNG MÔ HÌNH AGILE VÀO PHÁT TRIỂN ỨNG DỤNG - BỞI <b>[TECHBASE VIỆT NAM](https://www.techbasevn.com/)</b> (15/08/2022 - 04/11/2022).</i></b>
   - <b>Vai trò:</b> Developer.
   - <b>Nhiệm vụ:</b> Cùng team dev xây dựng hệ thống quản lý cho cửa hàng tiện lợi, tập trung xây dựng hệ thống Back-end.
-  - <b>Thành tựu:</b> Chứng chỉ tham gia hoạt động xuất sắc về Agile development & Scrum framework.
+  - <b>Thành tựu:</b> Chứng chỉ xuất sắc về Agile development & Scrum framework.
 
 <hr>
 
@@ -51,25 +52,21 @@
 
 <b><i>CHỨNG CHỈ AGILE DEVELOPMENT & SCRUM FRAMEWORK - BỞI [TECHBASE VIỆT NAM](https://www.techbasevn.com/) (04/11/2022).</i></b>
 
-<b><i>GIẢNG VIÊN XUẤT SẮC NHẤT BỘ MÔN LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG CƠ BẢN 2022 - BỞI [FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (15/01/2023).</i></b>
+<b><i>GIẢNG VIÊN XUẤT SẮC NHẤT BỘ MÔN MÔ HÌNH LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG VÀ ỨNG DỤNG 2022 - BỞI [FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (15/01/2023).</i></b>
 
-<b><i>GIẢNG VIÊN XUẤT SẮC NHẤT BỘ MÔN LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG CƠ BẢN 2023 - BỞI [FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (27/01/2024).</i></b>
+<b><i>GIẢNG VIÊN XUẤT SẮC NHẤT BỘ MÔN MÔ HÌNH LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG VÀ ỨNG DỤNG 2023 - BỞI [FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (27/01/2024).</i></b>
 
 <hr>
 
 ## Kỹ Năng Nổi Bật
 
-<b><i>JAVA.</i></b>
-  - 5+ năm kinh nghiệm sử dụng ngôn ngữ Java vào các lĩnh vực phát triển ứng dụng Desktop, dứng dụng di động Android.
+- <b><i>ASP.NET Core for web.</i></b>
 
-<b><i>GDSCRIPT & GODOT ENGINE.</i></b>
-  - 2+ năm kinh nghiệm sử dụng ngôn ngữ GDScript và công nghệ Godot cho phát triển ứng dụng Game 2D.
+- <b><i>.NET Core for app and mobile.</i></b>
 
-<b><i>C#.</i></b>
-  - 4+ năm kinh nghiệm sử dụng ngôn ngữ C# vào lĩnh vực phát triển ứng dụng Desktop.
+- <b><i>Java Servlet + JSP for web.</i></b>
 
-<b><i>MÔ HÌNH MVC.</i></b>
-  - Sử dụng thành thạo mô hình MVC cho phát triển ứng dụng.
+- <b><i>MVC model for software development.</i></b>
 
 <hr>
 
@@ -77,7 +74,7 @@
 
 <div>
     <p>
-        <div>
+<!--         <div>
           <a href="https://github.com/ionecode-clone/Project01-ver1-ConsoleApp-GreatFastFoodStore.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-ver1-ConsoleApp-GreatFastFoodStore" width="300px"/>
           </a>
@@ -86,7 +83,7 @@
           <a href="https://github.com/ionecode-clone/Project01-ver2-ConsoleApp-GreatFastFoodStore.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-ver2-ConsoleApp-GreatFastFoodStore" width="300px"/>
           </a>
-        </div>
+        </div> -->
     </p>
 </div>
 
