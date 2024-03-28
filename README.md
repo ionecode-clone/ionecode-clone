@@ -32,7 +32,7 @@
   - Hỗ trợ các học viên về kiến thức phát triển ứng dụng, xây dựng đồ án môn học định hướng ứng dụng.
 
 <b><i>FREELANCER.</i></b>
-  - Gia sư trực tuyến, nhận kèm và hỗ trợ những người có nhu cầu củng cố kiến thức về:
+  - <b><i>Gia sư trực tuyến, nhận kèm và hỗ trợ những người có nhu cầu củng cố kiến thức về:</i></b>
     - Lập trình nền tảng.
     - Lập trình hướng đối tượng.
     - Cấu trúc dữ liệu và giải thuật.
