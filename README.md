@@ -11,7 +11,7 @@
 - <b>Vị trí:</b> Quận 7, thành phố Hồ Chí Minh.
 - <b>Số điện thoại:</b> 0399088121.
 - <b>Email:</b> ionecode.teacher@gmail.com
-- <b>Facebook:</b> https://www.facebook.com/ldtt.gamedev?locale=vi_VN
+- <b>Facebook:</b> https://www.facebook.com/ionecode/
 </div>
 
 <hr>
@@ -25,7 +25,7 @@
 
 ## Kinh Nghiệm Làm Việc
 
-<b><i>[FULLHOUSE CLUB](https://www.facebook.com/ionecode/) (01/07/2021 - Hiện tại).</i></b>
+<b><i>[FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (01/07/2021 - Hiện tại).</i></b>
 - <b><i>Giảng viên.</i></b>
   - Giảng dạy các môn học:
     - Mô hình lập trình hướng đối tượng và ứng dụng - Ngôn ngữ Java.
