@@ -66,6 +66,10 @@
 
 - <b><i>Java Servlet + JSP for web app.</i></b>
 
+- <b><i>RESTful API for Java.</i></b>
+
+- <b><i>Spring Framework and Microservices for Java.</i></b>
+
 - <b><i>MVC model for software development.</i></b>
 
 <hr>
