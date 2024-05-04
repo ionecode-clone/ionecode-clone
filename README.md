@@ -18,7 +18,7 @@
 
 ## Học Vấn
 
-<b><i>ĐẠI HỌC TÔN ĐỨC THẮNG.</i></b>
+<b><i>ĐẠI HỌC TÔN ĐỨC THẮNG (2018 - 2023).</i></b>
   - Khoa Công nghệ thông tin - Chuyên ngành Tính toán thông minh.
 
 <hr>
@@ -52,44 +52,29 @@
 
 <b><i>CHỨNG CHỈ AGILE DEVELOPMENT & SCRUM FRAMEWORK - BỞI [TECHBASE VIỆT NAM](https://www.techbasevn.com/) (04/11/2022).</i></b>
 
-<b><i>GIẢNG VIÊN XUẤT SẮC NHẤT BỘ MÔN MÔ HÌNH LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG VÀ ỨNG DỤNG 2022 - BỞI [FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (15/01/2023).</i></b>
+<b><i>GIẢNG VIÊN XUẤT SẮC NHẤT BỘ MÔN MÔ HÌNH LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG VÀ ỨNG DỤNG (2022) - BỞI [FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (15/01/2023).</i></b>
 
-<b><i>GIẢNG VIÊN XUẤT SẮC NHẤT BỘ MÔN MÔ HÌNH LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG VÀ ỨNG DỤNG 2023 - BỞI [FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (27/01/2024).</i></b>
+<b><i>GIẢNG VIÊN XUẤT SẮC NHẤT BỘ MÔN MÔ HÌNH LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG VÀ ỨNG DỤNG (2023) - BỞI [FULLHOUSE CLUB](https://www.facebook.com/groups/laptrinh24h.vn?locale=vi_VN) (27/01/2024).</i></b>
 
 <hr>
 
 ## Kỹ Năng Nổi Bật
 
-- <b><i>ASP.NET Core for web app.</i></b>
+- <b><i>Fundamental: OOP, DSA</i></b>
 
-- <b><i>.NET Core for desktop and mobile app.</i></b>
+- <b><i>Web app: ASP.NET Core, Java Servlet + JSP</i></b>
 
-- <b><i>Java Servlet + JSP for web app.</i></b>
+- <b><i>Desktop app: .NET Core</i></b>
 
-- <b><i>RESTful API for Java.</i></b>
+- <b><i>Mobile app: .NET Core</i></b>
 
-- <b><i>Spring Framework and Microservices for Java.</i></b>
+- <b><i>Database: MySQL, SQL Server</i></b>
 
-- <b><i>MVC model for software development.</i></b>
+- <b><i>Framework: Spring, ORM</i></b>
 
-<hr>
+- <b><i>Service: RESTful API, AWS, Firebase</i></b>
 
-## Dự Án Nổi Bật
-
-<div>
-    <p>
-<!--         <div>
-          <a href="https://github.com/ionecode-clone/Project01-ver1-ConsoleApp-GreatFastFoodStore.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-ver1-ConsoleApp-GreatFastFoodStore" width="300px"/>
-          </a>
-        </div>
-  <div>
-          <a href="https://github.com/ionecode-clone/Project01-ver2-ConsoleApp-GreatFastFoodStore.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ionecode-clone&repo=Project01-ver2-ConsoleApp-GreatFastFoodStore" width="300px"/>
-          </a>
-        </div> -->
-    </p>
-</div>
+- <b><i>Software development model: MVC</i></b>
 
 <hr>
 
