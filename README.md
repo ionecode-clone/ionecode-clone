@@ -68,7 +68,7 @@
 
 - <b><i>Mobile app: .NET Core</i></b>
 
-- <b><i>Database: MySQL, SQL Server</i></b>
+- <b><i>Database: MySQL, SQLServer</i></b>
 
 - <b><i>Framework: Spring, ORM</i></b>
 
