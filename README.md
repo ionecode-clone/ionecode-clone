@@ -62,11 +62,11 @@
 
 - <b><i>Fundamental: OOP, DSA</i></b>
 
-- <b><i>Java: ORM, Servlet web + JSP, RESTful API, Spring</i></b>
+- <b><i>Java: ORM, Servlet web + JSP, RESTful API</i></b>
 
-- <b><i>.NET: ORM, ASP.NET Core web (MVC), ASP.NET Core web (Razor pages), ASP.NET Core RESTful API, .NET Core WinForm, .NET Core WPF, .NET Framework WCF, .NET Core MAUI Blazor</i></b>
+- <b><i>.NET: ORM, .NET Core WPF, ASP.NET Core web (MVC), ASP.NET Core web (Razor pages), ASP.NET Core RESTful API</i></b>
 
-- <b><i>Database: MySQL, SQLServer</i></b>
+- <b><i>Database: MySQL, SQL Server</i></b>
 
 - <b><i>Service: AWS, Firebase, MongoDB</i></b>
 
